@@ -1,4 +1,4 @@
-# Palindrome Checker in C#
+# Palindrome Checker in C# - By Debora Weber Krikowski
 
 A simple yet extensible palindrome checker built with a focus on **clean code principles** and **performance optimizations**.
 
