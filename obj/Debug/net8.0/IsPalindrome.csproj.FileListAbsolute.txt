@@ -1,0 +1,14 @@
+C:\Users\debor\source\repos\IsPalindrome\bin\Debug\net8.0\IsPalindrome.exe
+C:\Users\debor\source\repos\IsPalindrome\bin\Debug\net8.0\IsPalindrome.deps.json
+C:\Users\debor\source\repos\IsPalindrome\bin\Debug\net8.0\IsPalindrome.runtimeconfig.json
+C:\Users\debor\source\repos\IsPalindrome\bin\Debug\net8.0\IsPalindrome.dll
+C:\Users\debor\source\repos\IsPalindrome\bin\Debug\net8.0\IsPalindrome.pdb
+C:\Users\debor\source\repos\IsPalindrome\obj\Debug\net8.0\IsPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debor\source\repos\IsPalindrome\obj\Debug\net8.0\IsPalindrome.AssemblyInfoInputs.cache
+C:\Users\debor\source\repos\IsPalindrome\obj\Debug\net8.0\IsPalindrome.AssemblyInfo.cs
+C:\Users\debor\source\repos\IsPalindrome\obj\Debug\net8.0\IsPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\debor\source\repos\IsPalindrome\obj\Debug\net8.0\IsPalindrome.dll
+C:\Users\debor\source\repos\IsPalindrome\obj\Debug\net8.0\refint\IsPalindrome.dll
+C:\Users\debor\source\repos\IsPalindrome\obj\Debug\net8.0\IsPalindrome.pdb
+C:\Users\debor\source\repos\IsPalindrome\obj\Debug\net8.0\IsPalindrome.genruntimeconfig.cache
+C:\Users\debor\source\repos\IsPalindrome\obj\Debug\net8.0\ref\IsPalindrome.dll
